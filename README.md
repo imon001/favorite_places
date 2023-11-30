@@ -25,7 +25,7 @@
 
 
 
-**Note:** App requires internet to load the images.
+**Note:** App requires internet for map.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
