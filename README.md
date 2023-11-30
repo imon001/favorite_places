@@ -1,7 +1,31 @@
 # favorite_place
 
-A new Flutter project.
+### A flutter app that allows users to create a list of their favorite places. It leverages native device features such as accessing the camera, getting the user's location, displaying a map, and storing data on the device.
 
+
+
+
+
+## Features
+
+- Capture photos using the device's camera. 
+- Select locations using device Maps.
+- Save favorite places with a title, photo, and location.
+- View a list of saved favorite places.
+
+
+
+## Screenshots
+
+|<img  src=""/>|<img src=""/>|<img src=""/>|
+| ------------- | ------------- |------------- |
+
+
+
+
+
+
+**Note:** App requires internet to load the images.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
