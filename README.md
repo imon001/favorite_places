@@ -1,4 +1,4 @@
-# favorite_place
+# Favorite Place
 
 ### A flutter app with **Riverpod (state management tool )** that allows users to create a list of their favorite places. It leverages native device features such as accessing the camera, getting the user's location, displaying a map, and storing data on the device.
 
